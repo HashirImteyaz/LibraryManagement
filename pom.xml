@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.becoder</groupId>
-	<artifactId>16_Emp_System</artifactId>
+	<artifactId>LMS1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>16_Emp_System</name>
+	<name>LMS1</name>
 	<description>This is crud application</description>
 	<properties>
 		<java.version>17</java.version>
